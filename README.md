@@ -2,10 +2,7 @@
 
 This project explores **Probabilistic Artificial Intelligence** techniques for predicting football match outcomes in the Portuguese league. It combines **Bayesian Networks**, **Naive Bayes classification**, **Conformal Prediction**, **Calibration Analysis**, **Bayesian Optimization**, and **Utility-Based Decision Making** to model uncertainty and support informed decisions.
 
----
-
 ## Overview
-
 The objective of this project is not only to predict football match outcomes but also to quantify uncertainty and evaluate the practical usefulness of probabilistic predictions.
 
 The project is divided into three main components:
